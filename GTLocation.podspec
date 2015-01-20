@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/gtranchedone/GTLocation"
   s.license      = 'MIT'
   s.author       = { "Gianluca Tranchedone" => "gianluca@cocoabeans.me" }
-  s.source       = { :git => "https://github.com/gtranchedone/GTLocation.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/lowdownapp/GTLocation.git"}
 
   s.ios.deployment_target = '7.0'
   s.osx.deployment_target = '10.9'
